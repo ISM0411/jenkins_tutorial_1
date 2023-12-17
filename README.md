@@ -27,8 +27,8 @@ will execute all the steps in the Jenkins file.
      }
     }
 6. make sure the syntax and steps are properly indended.
-
-<img src="jenkins_first_tutorial.png" width=400px"> 
+<h1>Please check the image below </h1>
+<img src="jenkins_first_tutorial.png">
 
 ### Some of the Advantages to use Docker agent instead of Jenkins Slave node
 1. Jenkins slave nodes configuration has software dependency issues. for example development team A have written python application that runs on python3 version and development team B has some application been running in verion python 2 then we need to create additional slave node. with Docker agent you just use image required for application , install necesary prequisites and test the application in docker container and destory after the build
