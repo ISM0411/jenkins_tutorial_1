@@ -26,5 +26,7 @@ will execute all the steps in the Jenkins file.
       }
      }
     }
+6. make sure the syntax and steps are properly indended.
+   <img src= "jenkins_first_tutorial" width=400px"> 
 
    few advantage of using Docker Agent in Jenkins are
